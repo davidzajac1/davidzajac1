@@ -19,6 +19,10 @@ Highly motivated and experienced Data Engineer and Full Stack Developer able to 
 
 ### [Reptoro.com](https://github.com/davidzajac1/Reptoro) - A Data Visualization and Analytics Platform for the Reptile Industry
 ![Language](https://img.shields.io/badge/Language-Python-success?style=flat)
+![Flask](https://img.shields.io/badge/Flask-v2.0.1-informational?style=flat)
+![pandas](https://img.shields.io/badge/pandas-v1.3.3-informational?style=flat)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-v1.4.23-informational?style=flat)
+![dash](https://img.shields.io/badge/dash-v2.0.0-informational?style=flat)
 
 Reptoro uses an ETL pipeline architected using AWS Lambda, Athena, S3 and Apache Airflow to routinely webscrape online reptile marketplaces. Data is then stored in a Postgres RDS instance and is viewable on Reptoro.com, a Flask App hosted on EC2.
 
