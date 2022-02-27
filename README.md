@@ -3,7 +3,7 @@
 </p>
 
 
-Highly motivated and experienced Data Engineer and Full Stack Developer able to build end-to-end web applications, data pipelines and cloud solutions. A quick learner with a diverse background from working at both large corporations, small companies and running a business.
+Data Engineer and Cloud Solutions Architect able to build end-to-end web applications, data pipelines and robust cloud architecture. A quick learner with a diverse background from working at both large corporations, small companies and running a business.
 
 ---
 
