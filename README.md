@@ -27,7 +27,7 @@ Visit [Reptoro.com](https://reptoro.com/) and click on `Dashboard` to view sever
 ---
 
 <p>
-  <a href="https://github.com/davidzajac1/Reptoro"><img width="300" align='right' src="example-well.png"></a>
+  <a href="https://github.com/davidzajac1/zoil"><img width="300" align='right' src="example-well.png"></a>
 </p>
 
 
