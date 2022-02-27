@@ -31,7 +31,7 @@ Visit [Reptoro.com](https://reptoro.com/) and click on `Dashboard` to view sever
 </p>
 
 
-### [ZOil](https://pypi.org/project/zoil/) - Generate random Oil and Gas Data
+### [ZOil](https://github.com/davidzajac1/zoil) - Generate random Oil and Gas Data
 ![Language](https://img.shields.io/badge/Language-Python-success?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-informational?style=flat)
 ![Version](https://img.shields.io/badge/Version-0.0.4-informational?style=flat)
