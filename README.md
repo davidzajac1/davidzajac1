@@ -36,7 +36,9 @@ Visit [Reptoro.com](https://reptoro.com/) and click on `Dashboard` to view sever
 ![License](https://img.shields.io/badge/License-MIT-informational?style=flat)
 ![Version](https://img.shields.io/badge/Version-0.0.4-informational?style=flat)
 
-ZOil is a python library used to generate random Oil and Gas data. Most Oil and Gas data is either propreitary or costly to aquire. ZOil lets you quickly generate an unlimited amount of production data that can be used to for testing, anonymization and much more. ZOil was inspired by the [`Faker`](https://github.com/joke2k/faker) library.
+ZOil is a python library used to generate random Oil and Gas data. Most Oil and Gas data is either propreitary or costly to aquire. ZOil lets you quickly generate an unlimited amount of production data that can be used to for testing, anonymization and much more. ZOil was inspired by the [`Faker`](https://github.com/joke2k/faker) library. 
+
+ZOil is [hosted on PyPI](https://pypi.org/project/zoil/) and is installed using `pip`
 
 <br />
 
