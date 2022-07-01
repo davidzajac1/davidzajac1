@@ -9,7 +9,7 @@ Data Engineer and Cloud Solutions Architect able to build end-to-end web applica
 
  - ⭐ 100% Job Success Score and only 5-star client reviews on [Upwork.com Profile](https://www.upwork.com/freelancers/~01c133ff8ee4686b95)
  - ✅ [AWS Certified Solutions Architect -  Associate](awssa.pdf)
- - 👷 Domain knowledge in Upstream Oil and Gas operations and Software
+ - 👷 Domain knowledge in Upstream Oil and Gas Operations and Software
 
 ---
 
