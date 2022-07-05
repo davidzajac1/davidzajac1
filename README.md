@@ -14,6 +14,29 @@ Data Engineer and Cloud Solutions Architect able to build end-to-end web applica
 ---
 
 <p>
+  <a href="https://github.com/davidzajac1/iamscan"><img width="250" align='right' src="iamscan_snapshot.PNG"></a>
+</p>
+
+
+### [IAMScan](https://github.com/davidzajac1/iamscan) - Checks code for needed AWS IAM Privileges
+![Language](https://img.shields.io/badge/Language-Python-informational?style=flat)
+![License](https://img.shields.io/badge/License-MIT-informational?style=flat)
+![Version](https://img.shields.io/badge/Version-0.0.1-informational?style=flat)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+IAMScan is a command line tool that reads your code and generates an AWS IAM policy with your needed permissions. Keeping track of AWS IAM permissions is annoying and timeconsuming. How often have you seen an update deployed to the cloud followed by `The provided execution role does not have permissions to call CreateSomething on SomeService`? IAMScan solves this issue by generating a perfectly [least privilaged](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#grant-least-privilege) AWS IAM Policy for all Python Files, JavaScript Files and Shell Scripts from a single command line command.
+
+IAMScan is [hosted on PyPI](https://pypi.org/project/iamscan/) and is installed using `pip`
+
+<br />
+
+```bash
+pip install iamscan
+```
+
+---
+
+<p>
   <a href="https://github.com/davidzajac1/Reptoro"><img width="300" align='right' src="reptoro-dashboard.JPG"></a>
 </p>
 
