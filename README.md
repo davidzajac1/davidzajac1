@@ -31,7 +31,7 @@ IAMScan is [hosted on PyPI](https://pypi.org/project/iamscan/) and is installed 
 <br />
 
 ```bash
-pip install iamscan
+$ pip install iamscan
 ```
 
 ---
@@ -71,5 +71,5 @@ ZOil is [hosted on PyPI](https://pypi.org/project/zoil/) and is installed using 
 <br />
 
 ```bash
-pip install zoil
+$ pip install zoil
 ```
