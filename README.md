@@ -18,7 +18,7 @@ Data Engineer and Cloud Solutions Architect able to build end-to-end web applica
 </p>
 
 
-### [Reptoro.com](https://github.com/davidzajac1/Reptoro) - A Data Visualization and Analytics Platform for the Reptile Industry
+### [Reptoro](https://github.com/davidzajac1/Reptoro) - A Data Visualization and Analytics Platform for the Reptile Industry
 ![Language](https://img.shields.io/badge/Language-Python-success?style=flat)
 ![Flask](https://img.shields.io/badge/Flask-v2.0.1-informational?style=flat)
 ![pandas](https://img.shields.io/badge/pandas-v1.3.3-informational?style=flat)
@@ -27,7 +27,7 @@ Data Engineer and Cloud Solutions Architect able to build end-to-end web applica
 
 Reptoro uses an ETL pipeline architected using AWS Lambda, Athena, S3 and Apache Airflow to routinely webscrape online reptile marketplaces. Data is then stored in a Postgres RDS instance and is viewable on Reptoro.com, a Flask App hosted on EC2.
 
-Visit [Reptoro.com](https://reptoro.com/) and click on `Dashboard` to view several Dash/Plotly visualizations of industry data.
+Visit [https://reptoro.herokuapp.com/](https://reptoro.herokuapp.com/) and click on `Dashboard` to view several Dash/Plotly visualizations of industry data.
 
 ---
 
