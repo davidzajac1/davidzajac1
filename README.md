@@ -1,15 +1,20 @@
 <p align="center">
-  <img width="auto" src="github-header.PNG" alt="Header">
+  <a href="https://zillacode.com">
+    <img width="auto" src="linkedin_background.jpg" alt="Header">
+  </a>
 </p>
 
 
-Data Engineer and Cloud Solutions Architect able to build end-to-end web applications, data pipelines and robust cloud architecture. A quick learner with a diverse background from working at both large corporations, small companies and running a business.
+[Zillacode.com](https://zillacode.com) has the tools I wish I had while making a radical self taught career shift into Data Engineering from working in the Oil Field.
+
+While searching for jobs and trying to prepare for coding interviews every platform I found only offered vanilla Python and SQL problems, whereas most jobs wanted experience with tools like DBT, Spark and Snowflake.
+
+After a battle spinning up Spark on my local machine and figuring out how all of these frameworks worked I was able to break into the industry and hopefully will remove this hurdle for others who want to do the same. Today hundreds have used Zillacode to study for coding interviews and learn the frameworks essential to being a modern Data Engineer.
 
 ---
 
  - ⭐ 100% Job Success Score and only 5-star client reviews on [Upwork.com Profile](https://www.upwork.com/freelancers/~01c133ff8ee4686b95)
  - ✅ [AWS Certified Solutions Architect -  Associate](awssa.pdf)
- - 👷 Domain knowledge in Upstream Oil and Gas Operations and Software
 
 ---
 
