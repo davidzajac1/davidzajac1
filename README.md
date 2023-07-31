@@ -55,8 +55,6 @@ $ pip install iamscan
 
 Reptoro uses an ETL pipeline architected using AWS Lambda, Athena, S3 and Apache Airflow to routinely webscrape online reptile marketplaces. Data is then stored in a Postgres RDS instance and is viewable on Reptoro.com, a Flask App hosted on EC2.
 
-Visit [https://reptoro.herokuapp.com](https://reptoro.herokuapp.com/) and click on `Dashboard` to view several Dash/Plotly visualizations of industry data.
-
 ---
 
 <p>
