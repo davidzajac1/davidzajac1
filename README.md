@@ -53,7 +53,7 @@ packages:
   <a href="https://zillacode.com/ide/1"><img width="400" align='right' src="zillacode.jpeg"></a>
 </p>
 
-Created [Zillacode.com](Zillacode.com) a B2C SAAS platform used to help people study for coding interviews. It is the only online platform that runs live PySpark, Spark, DBT, Snowflake and Pandas code in the browser. Zillacode is proprietary, but feel free to reach out with requests to view the underlying code base. 
+Created [Zillacode.com](https://zillacode.com) a B2C SAAS platform used to help people study for coding interviews. It is the only online platform that runs live PySpark, Spark, DBT, Snowflake and Pandas code in the browser. Zillacode is proprietary, but feel free to reach out with requests to view the underlying code base. 
 
 On the backend Zillacode is hosted using primarily the AWS Serverless stack, has automated UI testing and deployments across environments, automated recurring billing and Single Sign On from various providers. What make Zillacode difficult to reproduce and sets it apart from other coding interview prep platforms is the speed in which it runs Spark/PySpark and DBT code by repackaging them in clever ways so that they will run quickly in a browser.
 
