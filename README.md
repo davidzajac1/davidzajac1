@@ -34,8 +34,10 @@ An open source data reliability framework for the modern data stack. RE Data is 
 
 <br />
 
-```bash
-$ pip install re_data
+```yaml
+packages:
+  - package: re-data/re_data
+    version: 0.11.0
 ```
 
 ---
