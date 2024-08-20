@@ -76,6 +76,7 @@ $ docker-compose up
 ### [IAMScan](https://github.com/davidzajac1/iamscan) - CLI tool checks code for AWS IAM Privileges
 ![Language](https://img.shields.io/badge/Language-Python-informational?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-informational?style=flat)
+![PyPI - Version](https://img.shields.io/pypi/v/iamscan)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 IAMScan is an open source command line tool that reads your code and generates an AWS IAM policy with your needed permissions. Keeping track of AWS IAM permissions is annoying and time consuming. How often have you seen an update deployed to the cloud followed by `The provided execution role does not have permissions to call CreateSomething on SomeService`? IAMScan solves this issue by generating a perfectly [least privileged](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#grant-least-privilege) AWS IAM Policy for all Python Files, JavaScript Files and Shell Scripts from a single command line command.
@@ -99,7 +100,7 @@ $ pip install iamscan
 ### [ZOil](https://github.com/davidzajac1/zoil) - Generate random Oil and Gas Data
 ![Language](https://img.shields.io/badge/Language-Python-informational?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-informational?style=flat)
-![Version](https://img.shields.io/badge/Version-0.0.4-informational?style=flat)
+![PyPI - Version](https://img.shields.io/pypi/v/zoil)
 
 ZOil is a python library used to generate random Oil and Gas data. Most Oil and Gas data is either proprietary or costly to acquire. ZOil lets you quickly generate an unlimited amount of production data that can be used to for testing, anonymization and much more. ZOil was inspired by the [`Faker`](https://github.com/joke2k/faker) library. 
 
