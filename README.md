@@ -43,19 +43,27 @@ packages:
 ---
 ---
 
-### [Zillacode.com](https://zillacode.com) - The ultimate resource to become a modern Data Engineer
+### [Zillacode](https://github.com/davidzajac1/zillacode) - Open Source LeetCode for PySpark, Spark, Pandas and DBT/Snowflake
+![Stars](https://img.shields.io/github/stars/davidzajac1/zillacode?style=social)
+![Apache License](https://img.shields.io/badge/License-MIT-informational?style=flat)
 ![Language](https://img.shields.io/badge/Language-PySpark-informational?style=flat)
 ![Language](https://img.shields.io/badge/Language-Spark-informational?style=flat)
 ![Language](https://img.shields.io/badge/Language-DBT-informational?style=flat)
 ![Language](https://img.shields.io/badge/Language-SnowSQL-informational?style=flat)
 
 <p>
-  <a href="https://zillacode.com/ide/1"><img width="400" align='right' src="zillacode.jpeg"></a>
+  <img width="400" align='right' src="zillacode.jpeg">
 </p>
 
-Created [Zillacode.com](https://zillacode.com) a B2C SAAS platform used to help people study for coding interviews. It is the only online platform that runs live PySpark, Spark, DBT, Snowflake and Pandas code in the browser. Zillacode is proprietary, but feel free to reach out with requests to view the underlying code base. 
+Created Zillacode the only platform on the internet where you can practice LeetCode like questions using PySpark, Spark, DBT and Snowflake. [Zillacode.com](https://zillacode.com) was once a live micro-serviced B2C SAAS platform with SSO and Automated Billing but is now Open Source on GitHub.
 
-On the backend Zillacode is hosted using primarily the AWS Serverless stack, has automated UI testing and deployments across environments, automated recurring billing and Single Sign On from various providers. What make Zillacode difficult to reproduce and sets it apart from other coding interview prep platforms is the speed in which it runs Spark/PySpark and DBT code by repackaging them in clever ways so that they will run quickly in a browser.
+The entire platform spins up locally with one command using Docker Compose. When deployed to the Cloud Zillacode utilizes AWS Lambda Functions built from custom Docker images that package Spark and PySpark in a way that allows answers to be returned quickly.
+
+```bash
+$ git clone https://github.com/davidzajac1/zillacode.git
+$ cd zillacode
+$ docker-compose up
+```
 
 ---
 ---
@@ -84,29 +92,12 @@ $ pip install iamscan
 ---
 
 <p>
-  <a href="https://github.com/davidzajac1/Reptoro"><img width="350" align='right' src="reptoro-dashboard.JPG"></a>
-</p>
-
-
-### [Reptoro](https://github.com/davidzajac1/Reptoro) - A failed B2B SAAS Platform
-![Language](https://img.shields.io/badge/Language-Python-success?style=flat)
-![Flask](https://img.shields.io/badge/Flask-v2.0.1-informational?style=flat)
-![pandas](https://img.shields.io/badge/pandas-v1.3.3-informational?style=flat)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-v1.4.23-informational?style=flat)
-![dash](https://img.shields.io/badge/dash-v2.0.0-informational?style=flat)
-
-Originally intended to be a paid analytics platform for exotic animal breeders, released as open source here due to lack of customer interest. Reptoro was a Dash/Flask App hosted on EC2 with graphs visualizing scraped industry data. On the backend it had an ETL pipeline architected using AWS Lambda, Athena, S3 and Apache Airflow to routinely webscrape online reptile marketplaces.
-
----
----
-
-<p>
   <a href="https://github.com/davidzajac1/zoil"><img width="300" align='right' src="example_well.png"></a>
 </p>
 
 
 ### [ZOil](https://github.com/davidzajac1/zoil) - Generate random Oil and Gas Data
-![Language](https://img.shields.io/badge/Language-Python-success?style=flat)
+![Language](https://img.shields.io/badge/Language-Python-informational?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-informational?style=flat)
 ![Version](https://img.shields.io/badge/Version-0.0.4-informational?style=flat)
 
