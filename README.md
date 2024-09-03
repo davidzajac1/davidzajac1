@@ -20,6 +20,7 @@
 </p>
 
 ![Stars](https://img.shields.io/github/stars/re-data/re-data?style=social)
+![Forks](https://img.shields.io/github/forks/re-data/re-data?style=social)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/re-data)
 ![PyPI - Version](https://img.shields.io/pypi/v/re-data)
 ![MIT License](https://img.shields.io/badge/License-MIT-informational?style=flat)
@@ -45,6 +46,7 @@ packages:
 
 ### [Zillacode](https://github.com/davidzajac1/zillacode) - Open Source LeetCode for PySpark, Spark, Pandas and DBT/Snowflake
 ![Stars](https://img.shields.io/github/stars/davidzajac1/zillacode?style=social)
+![Forks](https://img.shields.io/github/forks/davidzajac1/zillacode?style=social)
 ![Apache License](https://img.shields.io/badge/License-MIT-informational?style=flat)
 ![Language](https://img.shields.io/badge/Language-PySpark-informational?style=flat)
 ![Language](https://img.shields.io/badge/Language-Spark-informational?style=flat)
