@@ -64,7 +64,7 @@ The entire platform spins up locally with one command using Docker Compose. When
 ```bash
 $ git clone https://github.com/davidzajac1/zillacode.git
 $ cd zillacode
-$ docker-compose up
+$ docker compose up
 ```
 
 ---
