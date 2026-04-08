@@ -5,9 +5,9 @@
 
 ---
 ---
+ - 🧠 5+ Years experience as a Data Engineer working with Python, SQL and AWS
  - 💪 Worked at multiple start-ups ranging from bootstrapped to Series B
  - ✅ [AWS Certified Solutions Architect -  Associate](awssa.pdf)
- - ⭐ 100% Job Success Score and only 5-star client reviews as contractor on [Upwork.com](https://www.upwork.com/freelancers/~01c133ff8ee4686b95)
  - 👷 Domain knowledge in Upstream Oil and Gas Operations
 
 ---
